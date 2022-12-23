@@ -1,0 +1,9 @@
+  ID
+  Summary
+  Environment
+  Steps
+  Actual result
+  Expected result
+  Severity
+  Priority
+  Reproducibility
